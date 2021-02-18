@@ -17,7 +17,7 @@ paths:
       tags:
       - CPU
       description: Returns cpu information of the hosting server
-      operationId: cpu.get_processor_name
+      operationId: os_pack.cpu_2020.get_processor_name
       responses:
         "200":
           description: CPU info
